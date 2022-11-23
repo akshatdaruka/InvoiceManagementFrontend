@@ -1,0 +1,27 @@
+.main{
+    background: transparent radial-gradient(closest-side at 50% 50%, #58687E 0%, #39495E 100%) 0% 0% no-repeat padding-box;   
+    height: 100%;
+    padding: 10px 10px;
+
+}
+
+.left{
+    float: left;
+font: normal normal bold 39px/51px Futura PT;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.mid{
+    padding-left: 33rem;
+    padding-top: 0.1rem;
+    }
+
+.invoice{
+    font: normal normal normal 28px/32px Ubuntu;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align:left;
+}
